@@ -1,0 +1,1 @@
+﻿ Scaffold-DbContext "Server=115.124.106.98;Database=coreapidb;User Id=coreapiuser;Password=P0wersh#t#2026;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Table tblemployees,tblcustomers,tblproducts -force
